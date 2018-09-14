@@ -6,6 +6,8 @@ DexSync is a simple automated tool for downloading and updating multiple configu
 
 Install it yourself as:
 
+test
+
     $ gem install dex_sync
 
 ## Usage
